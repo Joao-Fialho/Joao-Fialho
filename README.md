@@ -1,5 +1,9 @@
 ## Olá eu sou o João Fialho!<!-- , desenvolvedor Flutter! -->
--Atualmente estou estudando flutter -Interessado no desenvolvimento de aplicativos
+
+-Atualmente estou estudando flutter
+
+-Interessado no desenvolvimento de aplicativos
+
 <div align="center-Right">
   <a href="https://github.com/Joao-Fialho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Fialho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
