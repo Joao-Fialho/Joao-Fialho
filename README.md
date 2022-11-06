@@ -1,6 +1,6 @@
 ## Olá eu sou o João Fialho!<!-- , desenvolvedor Flutter! -->
 
--Atualmente estou estudando flutter
+-Atualmente trabalhando como junior em flutter na F-team
 
 -Interessado no desenvolvimento de aplicativos
 
