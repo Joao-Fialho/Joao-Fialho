@@ -1,8 +1,8 @@
 ## Olá eu sou o João Fialho!<!-- , desenvolvedor Flutter! -->
 
--Atualmente trabalhando como junior em flutter na F-team
+- Flutter Developer and Quality Assurence 
 
--Interessado no desenvolvimento de aplicativos
+- Interessado no desenvolvimento de aplicativos
 
 <div align="center-Right">
   <a href="https://github.com/Joao-Fialho">
